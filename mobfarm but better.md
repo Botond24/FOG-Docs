@@ -1,5 +1,5 @@
-DeepmobLearner
+Deepmob Learner
 Polymer
-Simulation Chameber
+Simulation Chamber
 Data Disk
-Trial
+Trials > Glitch Armour
