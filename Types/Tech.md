@@ -2,7 +2,7 @@
 [[Applied Energistics 2]]
 [[Applied Energistics 2 Wireless Terminals]]
 [[Compact Machines]]
-[[Create]]
+[[create]]
 [[Deep Mob Leaning: Refabricated]]
 [[Deep Mob Leaning: Simulacrum]]
 [[Industrial Revolution]]
