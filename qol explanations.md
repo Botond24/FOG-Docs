@@ -1,6 +1,5 @@
 Not Enough Breeding
 Origins
 MCA
-Trinkets
+Artifacts
 Blahaj
-
