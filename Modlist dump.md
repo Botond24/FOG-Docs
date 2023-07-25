@@ -96,7 +96,6 @@
 [[Universal Ores]]
 [[Waystone Towers]]
 [[Waystones]]
-[[Wireless Networks]]
 [[With Thursday]]
 [[With Thursday Delight]]
 [[YUNG's API]]

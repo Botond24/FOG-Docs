@@ -1,0 +1,1 @@
+castrated (no marriage) + regenrate balls/uterus
