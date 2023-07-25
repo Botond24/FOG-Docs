@@ -1,0 +1,13 @@
+- [[house]]
+- [[mansion]]
+- [[town]]
+- [[castle]]
+- [[farms]] (various types)
+- [[trading hall]]
+- [[unvirgin yourself]]
+- [[meltery, smeltery etc]]
+- [[eat every single thing]]
+- [[chunk scouting]]
+- [[armor and weapon upgrades]]
+- [[horse, dog and cats (maybe parrots)]]
+- [[kill]]

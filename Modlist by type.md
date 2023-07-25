@@ -1,0 +1,7 @@
+[[QOL]]
+[[Tech]]
+[[Magic]]
+[[Other]]
+[[Tweaks]]
+[[Libs]]
+[[Visual]]
