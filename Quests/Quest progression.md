@@ -10,6 +10,6 @@
  6. [[tech 2]]
  7. [[mobfarm but better]]
  8. [[Endgame]]
-[[Side Quest.excalidraw]]
+[[Side Quest]]
  1. [[storage]]
  2. [[magic quests]]
