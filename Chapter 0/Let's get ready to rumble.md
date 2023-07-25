@@ -1,0 +1,1 @@
+I hope you read all the tutorial we wrote (they are helpful... please don't ignore them). If you do, then congratulations, you are ready to start your adventure in this wonderful world of magic, technology and breeding.
