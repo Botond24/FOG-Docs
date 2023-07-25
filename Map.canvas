@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"file","file":"Modpack.md","id":"91ce516583f806ee","x":80,"y":-500,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Modlists.md","id":"506c9231c69619c2","x":620,"y":-500,"width":400,"height":400},
+		{"type":"file","file":"Quest progression.md","id":"7ffb2ebf44b8393c","x":-540,"y":-900,"width":400,"height":400},
+		{"type":"file","file":"Advancment Ideas.md","id":"44243690625de44c","x":-540,"y":-100,"width":400,"height":459},
+		{"id":"a0db02a20f93050f","x":1280,"y":-500,"width":400,"height":400,"type":"file","file":"Modlist by Mod.md"},
+		{"id":"5dd8009bf7f24444","x":620,"y":240,"width":400,"height":2680,"type":"file","file":"Modlist dump.md"},
+		{"id":"4ca8043b2d797fe5","x":620,"y":-1120,"width":400,"height":400,"type":"file","file":"Modlist by type.md"},
+		{"id":"4d506cf4c988ec66","x":1020,"y":-1720,"width":400,"height":400,"type":"file","file":"Types/Tech.md"},
+		{"id":"baf06ebea97b01cd","x":1020,"y":-2240,"width":400,"height":400,"type":"file","file":"Types/Magic.md"},
+		{"id":"8cb0c1bfcc257d06","x":220,"y":-2000,"width":400,"height":680,"type":"file","file":"Types/QOL.md"},
+		{"id":"6685dc643a96ece4","x":220,"y":-2840,"width":400,"height":720,"type":"file","file":"Types/Other.md"},
+		{"id":"814297b7eaccaca9","x":1020,"y":-2760,"width":400,"height":400,"type":"file","file":"Types/Visual.md"},
+		{"id":"2e7030b3b7910553","x":220,"y":-3513,"width":400,"height":561,"type":"file","file":"Types/Libs.md"},
+		{"id":"c7489c478a22560e","x":1020,"y":-3513,"width":400,"height":584,"type":"file","file":"Types/Tweaks.md"}
+	],
+	"edges":[
+		{"id":"d6fc3f76b076d790","fromNode":"91ce516583f806ee","fromSide":"right","toNode":"506c9231c69619c2","toSide":"left"},
+		{"id":"4f3301f858ac7909","fromNode":"91ce516583f806ee","fromSide":"bottom","toNode":"44243690625de44c","toSide":"right"},
+		{"id":"2b9f36dcc55960ea","fromNode":"91ce516583f806ee","fromSide":"top","toNode":"7ffb2ebf44b8393c","toSide":"right"},
+		{"id":"aaf0b1a0c1a72661","fromNode":"506c9231c69619c2","fromSide":"right","toNode":"a0db02a20f93050f","toSide":"left"},
+		{"id":"f41fdfe63bddb499","fromNode":"506c9231c69619c2","fromSide":"bottom","toNode":"5dd8009bf7f24444","toSide":"top"},
+		{"id":"4778221e35272018","fromNode":"506c9231c69619c2","fromSide":"top","toNode":"4ca8043b2d797fe5","toSide":"bottom"},
+		{"id":"8016d1c022b300c7","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"4d506cf4c988ec66","toSide":"left"},
+		{"id":"8df212392453db97","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"8cb0c1bfcc257d06","toSide":"right"},
+		{"id":"5f47c2eb06653195","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"baf06ebea97b01cd","toSide":"left"},
+		{"id":"19ef84f92b1f7c5a","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"6685dc643a96ece4","toSide":"right"},
+		{"id":"be4fb59de226db5e","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"814297b7eaccaca9","toSide":"left"},
+		{"id":"b64f6df36039a74e","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"2e7030b3b7910553","toSide":"right"},
+		{"id":"01e4be3f631bbe5d","fromNode":"4ca8043b2d797fe5","fromSide":"top","toNode":"c7489c478a22560e","toSide":"left"}
+	]
+}
