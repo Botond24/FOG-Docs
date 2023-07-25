@@ -94,7 +94,6 @@
 [[Trinkets]]
 [[Trowel]]
 [[Universal Ores]]
-[[Waystone Towers]]
 [[Waystones]]
 [[With Thursday]]
 [[With Thursday Delight]]

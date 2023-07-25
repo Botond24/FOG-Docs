@@ -13,7 +13,6 @@
 [[Towns and Towers]]
 [[Trading Post]] Probably not working
 [[Universal Ores]]
-[[Waystone Towers]]
 [[YUNG's Better Desert Temples]]
 [[YUNG's Better Dungeons]]
 [[YUNG's Better Nether Fortress]]
