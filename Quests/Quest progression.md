@@ -13,3 +13,4 @@
 [[Side Quest]]
  1. [[storage]]
  2. [[magic quests]]
+ 3. [[food]]
