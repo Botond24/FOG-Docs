@@ -3,4 +3,8 @@ castrated (no marriage) + regenrate balls/uterus
 	 - mutiple potions
  - Une use tool
  - random size
+ - also usable on animals
+	 - rotten dick
+	 - horsedick
+	 - 
 Waystone non craftable
