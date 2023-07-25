@@ -5,7 +5,7 @@
 		{"type":"text","text":"Origin tutorial plus magic stuff","id":"a60df128855af43a","x":-970,"y":-240,"width":250,"height":60},
 		{"type":"text","text":"Create tutorial plus  industry things","id":"3d86dff24f149c49","x":-470,"y":-240,"width":250,"height":60},
 		{"type":"text","text":"Cooking tutorial","id":"c33cbf6e70b88edc","x":-720,"y":-100,"width":250,"height":60},
-		{"id":"8780b5bc8eef1b58","x":-720,"y":80,"width":250,"height":60,"type":"text","text":"Let's get ready to rumble"}
+		{"type":"text","text":"Let's get ready to rumble","id":"8780b5bc8eef1b58","x":-720,"y":80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bd1473f1b9ca12af","fromNode":"58fdec2e20c10031","fromSide":"bottom","toNode":"d84c495bb44c2ac2","toSide":"top"},
