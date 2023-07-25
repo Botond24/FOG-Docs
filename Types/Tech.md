@@ -10,4 +10,3 @@
 [[Powah]]
 [[Quarry Reborn]]
 [[Tech Reborn]]
-[[Wireless Networks]]
