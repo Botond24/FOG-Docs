@@ -5,6 +5,7 @@ castrated (no marriage) + regenrate balls/uterus
  - random size
  - also usable on animals
 	 - rotten dick
+		 - 
 	 - horsedick
-	 - 
+		 - slowness debuff
 Waystone non craftable
