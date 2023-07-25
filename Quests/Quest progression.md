@@ -1,7 +1,7 @@
  1. [[introduction]]
  2. [[settings]]
  3. [[qol explanations]]
-[[Main Quest.excalidraw]]
+[[Main Quest]]
  1. [[basic minecraft]]
  2. [[exploring]]
  3. [[tinkers]]
