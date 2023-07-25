@@ -1,3 +1,4 @@
+0. [[settings]]
 0. [[qol explanations]]
 1. [[basic minecraft]]
 2. [[exploring]]
