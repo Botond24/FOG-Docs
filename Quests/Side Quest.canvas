@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"d7d953471c31a759","x":478,"y":-240,"width":2552,"height":480,"type":"group","label":"Magic"},
+		{"id":"d7f7305b14bd3a03","x":1600,"y":-196,"width":1410,"height":416,"type":"group","label":"Hex Casting"},
+		{"type":"group","id":"b7f76d09a20c9d82","x":-320,"y":-180,"width":618,"height":638,"label":"Storage"},
+		{"id":"6ac28e740d0951c2","x":498,"y":-196,"width":1022,"height":356,"type":"group","label":"Arcanus"},
+		{"type":"group","id":"077512f925a76b06","x":-122,"y":38,"width":400,"height":400,"label":"AE2"},
+		{"type":"text","text":"Create Vaults","id":"532f64c0eb89fc18","x":-300,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Ender Chests","id":"7bec24835e0e5e38","x":20,"y":-160,"width":250,"height":60},
+		{"id":"d192c6732aab4e37","x":519,"y":-40,"width":250,"height":60,"type":"text","text":"Advanced Wand"},
+		{"id":"7107a1d45a5cc5b6","x":519,"y":80,"width":250,"height":60,"type":"text","text":"Master Wand"},
+		{"id":"09caed1d838d0b23","x":518,"y":-176,"width":250,"height":60,"type":"text","text":"Beginner Wand"},
+		{"id":"b3569c2163df355b","x":840,"y":-40,"width":250,"height":60,"type":"text","text":"Mana Storage"},
+		{"id":"99447cbf9d84cb2d","x":1160,"y":-40,"width":250,"height":60,"type":"text","text":"Magic Books"},
+		{"id":"e01d4f70f5c75c18","x":1160,"y":-440,"width":250,"height":60,"type":"text","text":"Village"},
+		{"id":"e1cb3641af42c068","x":-140,"y":-440,"width":250,"height":60,"type":"text","text":"Basic Storage"},
+		{"id":"4ead7ca95c75e40b","x":2180,"y":-5,"width":250,"height":60,"type":"text","text":"Charged Amethyst"},
+		{"id":"d13f26ee4954f412","x":2460,"y":-5,"width":250,"height":60,"type":"text","text":"Jeweler's Hammer"},
+		{"id":"41d5bd976f3575bc","x":2740,"y":-176,"width":250,"height":60,"type":"text","text":"Budding Amethyst Create"},
+		{"id":"856a71d760604372","x":2740,"y":-5,"width":250,"height":60,"type":"text","text":"Create Farm"},
+		{"id":"e737c9953c644b4b","x":1900,"y":-440,"width":250,"height":60,"type":"text","text":"Amethyst Geode"},
+		{"id":"eada1575d4e78560","x":1900,"y":-176,"width":250,"height":60,"type":"text","text":"Amethist"},
+		{"id":"16ad39dbd539cd3a","x":1900,"y":-5,"width":250,"height":60,"type":"text","text":"Amethyst Powder"},
+		{"id":"b2eae565a4365185","x":1620,"y":-5,"width":250,"height":60,"type":"text","text":"Wand"},
+		{"id":"051f07c70ae750b1","x":1620,"y":140,"width":250,"height":60,"type":"text","text":"Teleportation Device"}
+	],
+	"edges":[
+		{"id":"1016c1fd3a602718","fromNode":"e1cb3641af42c068","fromSide":"bottom","toNode":"b7f76d09a20c9d82","toSide":"top"},
+		{"id":"dec9a75fc5d0bfdf","fromNode":"09caed1d838d0b23","fromSide":"bottom","toNode":"d192c6732aab4e37","toSide":"top"},
+		{"id":"b889bbce7611c70f","fromNode":"d192c6732aab4e37","fromSide":"bottom","toNode":"7107a1d45a5cc5b6","toSide":"top"},
+		{"id":"e12e56f99e2ff9b8","fromNode":"09caed1d838d0b23","fromSide":"right","toNode":"b3569c2163df355b","toSide":"top"},
+		{"id":"5ef98467674bedfe","fromNode":"09caed1d838d0b23","fromSide":"right","toNode":"99447cbf9d84cb2d","toSide":"top"},
+		{"id":"de3d3bf44aec6d66","fromNode":"e01d4f70f5c75c18","fromSide":"bottom","toNode":"99447cbf9d84cb2d","toSide":"top"},
+		{"id":"57faf98fef2f0783","fromNode":"e737c9953c644b4b","fromSide":"bottom","toNode":"eada1575d4e78560","toSide":"top"},
+		{"id":"bf694357accec471","fromNode":"eada1575d4e78560","fromSide":"bottom","toNode":"16ad39dbd539cd3a","toSide":"top"},
+		{"id":"81ba9f70bf233561","fromNode":"eada1575d4e78560","fromSide":"bottom","toNode":"4ead7ca95c75e40b","toSide":"top"},
+		{"id":"0468c34796e6378e","fromNode":"eada1575d4e78560","fromSide":"right","toNode":"d13f26ee4954f412","toSide":"top"},
+		{"id":"fb7fad5d63bc8c0b","fromNode":"e737c9953c644b4b","fromSide":"bottom","toNode":"41d5bd976f3575bc","toSide":"top"},
+		{"id":"f10df3e6f031c742","fromNode":"41d5bd976f3575bc","fromSide":"bottom","toNode":"856a71d760604372","toSide":"top"},
+		{"id":"ac714aac9e8e7578","fromNode":"eada1575d4e78560","fromSide":"left","toNode":"b2eae565a4365185","toSide":"top"},
+		{"id":"4d5cf9bd5dbdda43","fromNode":"b2eae565a4365185","fromSide":"bottom","toNode":"051f07c70ae750b1","toSide":"top"}
+	]
+}

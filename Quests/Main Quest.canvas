@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"type":"group","id":"9624b33e49eea75e","x":-840,"y":160,"width":890,"height":400,"label":"CH2"},
+		{"type":"group","id":"3ca02102f0fde00f","x":-720,"y":-400,"width":650,"height":260,"label":"CH1"},
+		{"type":"group","id":"8287a7cc712d2262","x":-659,"y":760,"width":589,"height":285,"label":"CH3"},
+		{"type":"file","file":"Quests/Side Quest.canvas","id":"fdcc463e65b2fce6","x":292,"y":48,"width":400,"height":400},
+		{"type":"text","text":"Getting Wood","id":"cedfdbd569020480","x":-520,"y":-380,"width":250,"height":60},
+		{"type":"text","text":"Basic Tools","id":"5868b38f7aebc2db","x":-700,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"Basic Storage","id":"3e54b8f044d36f43","x":-340,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"Waystones","id":"a0a4a80bef9e217c","x":-820,"y":180,"width":250,"height":60},
+		{"type":"text","text":"Slime Islands","id":"bfd16382db66c0a4","x":-820,"y":280,"width":250,"height":60},
+		{"type":"text","text":"Backpack","id":"20eed8e34dfb3e9b","x":-520,"y":180,"width":250,"height":60},
+		{"type":"text","text":"Icarus","id":"005ae4a3caf1bc56","x":-220,"y":180,"width":250,"height":60},
+		{"type":"text","text":"Artifacts","id":"43611dbb8d7e7b33","x":-820,"y":365,"width":250,"height":60},
+		{"type":"text","text":"Village","id":"950de049ae74f605","x":-365,"y":375,"width":250,"height":50},
+		{"type":"text","text":"Tinker's Station","id":"4512d1621a41f2a2","x":-639,"y":780,"width":250,"height":60},
+		{"type":"text","text":"Grout","id":"8b9ef0bdf04ed08f","x":-341,"y":780,"width":250,"height":60},
+		{"type":"text","text":"Useful Armour","id":"06996f1f6f1aa7ea","x":-639,"y":880,"width":250,"height":60},
+		{"type":"text","text":"Smeltery","id":"49ee9a94775268e8","x":-341,"y":880,"width":250,"height":60},
+		{"type":"text","text":"Meltery","id":"e98f180620d27e1d","x":-341,"y":975,"width":250,"height":50},
+		{"id":"3e28824edd160ceb","x":-820,"y":460,"width":250,"height":60,"type":"text","text":"Amethyst Geode"},
+		{"id":"fb2d1370db188bcb","x":-639,"y":1120,"width":250,"height":60,"type":"text","text":"Andesite Alloy"}
+	],
+	"edges":[
+		{"id":"9f8c2e8bbeb1b8cc","fromNode":"cedfdbd569020480","fromSide":"bottom","toNode":"5868b38f7aebc2db","toSide":"top"},
+		{"id":"fd01eab7a9a31e08","fromNode":"cedfdbd569020480","fromSide":"bottom","toNode":"3e54b8f044d36f43","toSide":"top"},
+		{"id":"3e4748d52b253a1c","fromNode":"20eed8e34dfb3e9b","fromSide":"bottom","toNode":"950de049ae74f605","toSide":"top"},
+		{"id":"816876177e3e906c","fromNode":"005ae4a3caf1bc56","fromSide":"bottom","toNode":"950de049ae74f605","toSide":"top"},
+		{"id":"214029591fdc2383","fromNode":"5868b38f7aebc2db","fromSide":"bottom","toNode":"9624b33e49eea75e","toSide":"top"},
+		{"id":"4a328e35aba8b5a2","fromNode":"5868b38f7aebc2db","fromSide":"bottom","toNode":"4512d1621a41f2a2","toSide":"top"},
+		{"id":"0a124aabbd401b77","fromNode":"49ee9a94775268e8","fromSide":"bottom","toNode":"e98f180620d27e1d","toSide":"top"},
+		{"id":"55bd6a4f58057807","fromNode":"8b9ef0bdf04ed08f","fromSide":"bottom","toNode":"49ee9a94775268e8","toSide":"top"},
+		{"id":"cb9da951df0a3a3f","fromNode":"bfd16382db66c0a4","fromSide":"left","toNode":"8287a7cc712d2262","toSide":"left"},
+		{"id":"447b3f89ea5c6e69","fromNode":"3e54b8f044d36f43","fromSide":"bottom","toNode":"fdcc463e65b2fce6","toSide":"top"},
+		{"id":"cb8a360c70f29266","fromNode":"950de049ae74f605","fromSide":"bottom","toNode":"fdcc463e65b2fce6","toSide":"left"},
+		{"id":"51a426a826465818","fromNode":"3e28824edd160ceb","fromSide":"right","toNode":"fdcc463e65b2fce6","toSide":"left"}
+	]
+}
