@@ -5,7 +5,6 @@
 [[create]]
 [[Deep Mob Leaning: Refabricated]]
 [[Deep Mob Leaning: Simulacrum]]
-[[Industrial Revolution]]
 [[ME Requester]]
 [[Powah]]
 [[Quarry Reborn]]
