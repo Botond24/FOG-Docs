@@ -22,7 +22,6 @@
 		{"id":"eada1575d4e78560","x":1900,"y":-176,"width":250,"height":60,"type":"text","text":"Amethist"},
 		{"id":"16ad39dbd539cd3a","x":1900,"y":-5,"width":250,"height":60,"type":"text","text":"Amethyst Powder"},
 		{"id":"b2eae565a4365185","x":1620,"y":-5,"width":250,"height":60,"type":"text","text":"Wand"},
-		{"id":"051f07c70ae750b1","x":1620,"y":140,"width":250,"height":60,"type":"text","text":"Teleportation Device"},
 		{"id":"3ac6e6eb0fb1b8c7","x":-485,"y":-428,"width":250,"height":60,"type":"text","text":"CH4"},
 		{"id":"70355f5bb0774cc8","x":1900,"y":140,"width":250,"height":60,"type":"text","text":"Hex Notebook"}
 	],
@@ -40,7 +39,6 @@
 		{"id":"fb7fad5d63bc8c0b","fromNode":"e737c9953c644b4b","fromSide":"bottom","toNode":"41d5bd976f3575bc","toSide":"top"},
 		{"id":"f10df3e6f031c742","fromNode":"41d5bd976f3575bc","fromSide":"bottom","toNode":"856a71d760604372","toSide":"top"},
 		{"id":"ac714aac9e8e7578","fromNode":"eada1575d4e78560","fromSide":"left","toNode":"b2eae565a4365185","toSide":"top"},
-		{"id":"4d5cf9bd5dbdda43","fromNode":"b2eae565a4365185","fromSide":"bottom","toNode":"051f07c70ae750b1","toSide":"top"},
 		{"id":"97345cca35c4148b","fromNode":"3ac6e6eb0fb1b8c7","fromSide":"bottom","toNode":"532f64c0eb89fc18","toSide":"top"},
 		{"id":"802ae31ad4720de1","fromNode":"16ad39dbd539cd3a","fromSide":"bottom","toNode":"70355f5bb0774cc8","toSide":"top"}
 	]
