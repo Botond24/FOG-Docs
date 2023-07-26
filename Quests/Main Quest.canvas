@@ -3,6 +3,7 @@
 		{"type":"group","id":"9624b33e49eea75e","x":-840,"y":160,"width":890,"height":400,"label":"CH2"},
 		{"type":"group","id":"3ca02102f0fde00f","x":-720,"y":-400,"width":650,"height":260,"label":"CH1"},
 		{"type":"group","id":"8287a7cc712d2262","x":-659,"y":760,"width":589,"height":285,"label":"CH3"},
+		{"id":"ab15d4c5482c6bf6","x":-687,"y":1296,"width":842,"height":100,"type":"group","label":"Power"},
 		{"type":"file","file":"Quests/Side Quest.canvas","id":"fdcc463e65b2fce6","x":292,"y":48,"width":400,"height":400},
 		{"type":"text","text":"Getting Wood","id":"cedfdbd569020480","x":-520,"y":-380,"width":250,"height":60},
 		{"type":"text","text":"Basic Tools","id":"5868b38f7aebc2db","x":-700,"y":-220,"width":250,"height":60},
@@ -19,7 +20,10 @@
 		{"type":"text","text":"Smeltery","id":"49ee9a94775268e8","x":-341,"y":880,"width":250,"height":60},
 		{"type":"text","text":"Meltery","id":"e98f180620d27e1d","x":-341,"y":975,"width":250,"height":50},
 		{"id":"3e28824edd160ceb","x":-820,"y":460,"width":250,"height":60,"type":"text","text":"Amethyst Geode"},
-		{"id":"fb2d1370db188bcb","x":-639,"y":1120,"width":250,"height":60,"type":"text","text":"Andesite Alloy"}
+		{"id":"fb2d1370db188bcb","x":-639,"y":1120,"width":250,"height":60,"type":"text","text":"Andesite Alloy"},
+		{"id":"7ac73fe7ec60d05c","x":-667,"y":1316,"width":250,"height":60,"type":"text","text":"Waterwheel"},
+		{"id":"10c964c8f959e90e","x":-395,"y":1316,"width":250,"height":60,"type":"text","text":"Windmill"},
+		{"id":"9ba5f773b1a9d671","x":-115,"y":1316,"width":250,"height":60,"type":"text","text":"Boiler"}
 	],
 	"edges":[
 		{"id":"9f8c2e8bbeb1b8cc","fromNode":"cedfdbd569020480","fromSide":"bottom","toNode":"5868b38f7aebc2db","toSide":"top"},
