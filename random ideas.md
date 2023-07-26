@@ -9,3 +9,4 @@ castrated (no marriage) + regenrate balls/uterus
 	 - horsedick
 		 - slowness debuff
 Waystone non craftable
+towers of the wild have elytra
