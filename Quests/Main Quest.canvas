@@ -1,9 +1,10 @@
 {
 	"nodes":[
+		{"id":"e1ca636a49c89a79","x":-657,"y":1140,"width":862,"height":880,"type":"group","label":"CH4"},
 		{"type":"group","id":"9624b33e49eea75e","x":-840,"y":160,"width":890,"height":400,"label":"CH2"},
 		{"type":"group","id":"3ca02102f0fde00f","x":-720,"y":-400,"width":650,"height":260,"label":"CH1"},
 		{"type":"group","id":"8287a7cc712d2262","x":-659,"y":760,"width":589,"height":285,"label":"CH3"},
-		{"id":"ab15d4c5482c6bf6","x":-629,"y":1640,"width":842,"height":100,"type":"group","label":"Power"},
+		{"id":"ab15d4c5482c6bf6","x":-637,"y":1640,"width":292,"height":360,"type":"group","label":"Power"},
 		{"type":"file","file":"Quests/Side Quest.canvas","id":"fdcc463e65b2fce6","x":292,"y":48,"width":400,"height":400},
 		{"type":"text","text":"Getting Wood","id":"cedfdbd569020480","x":-520,"y":-380,"width":250,"height":60},
 		{"type":"text","text":"Basic Tools","id":"5868b38f7aebc2db","x":-700,"y":-220,"width":250,"height":60},
@@ -20,14 +21,17 @@
 		{"type":"text","text":"Smeltery","id":"49ee9a94775268e8","x":-341,"y":880,"width":250,"height":60},
 		{"type":"text","text":"Meltery","id":"e98f180620d27e1d","x":-341,"y":975,"width":250,"height":50},
 		{"id":"3e28824edd160ceb","x":-820,"y":460,"width":250,"height":60,"type":"text","text":"Amethyst Geode"},
-		{"id":"fb2d1370db188bcb","x":-337,"y":1160,"width":250,"height":60,"type":"text","text":"Andesite Alloy"},
-		{"id":"c274cb1b73b6b0c8","x":-337,"y":1298,"width":250,"height":60,"type":"text","text":"Brass"},
-		{"id":"7ac73fe7ec60d05c","x":-609,"y":1660,"width":250,"height":60,"type":"text","text":"Waterwheel"},
-		{"id":"10c964c8f959e90e","x":-337,"y":1660,"width":250,"height":60,"type":"text","text":"Windmill"},
-		{"id":"9ba5f773b1a9d671","x":-57,"y":1660,"width":250,"height":60,"type":"text","text":"Boiler"},
-		{"type":"text","text":"Sheets","id":"f5fabbe58f4dac1c","x":-57,"y":1413,"width":250,"height":60},
-		{"type":"text","text":"Press","id":"4aed7006158d0db8","x":-57,"y":1298,"width":250,"height":60},
-		{"type":"text","text":"Cooper","id":"6fc15a4556c9d7b9","x":-609,"y":1298,"width":250,"height":60}
+		{"id":"7ac73fe7ec60d05c","x":-617,"y":1660,"width":250,"height":60,"type":"text","text":"Waterwheel"},
+		{"id":"c274cb1b73b6b0c8","x":-345,"y":1298,"width":250,"height":60,"type":"text","text":"Brass"},
+		{"type":"text","text":"Press","id":"4aed7006158d0db8","x":-65,"y":1298,"width":250,"height":60},
+		{"type":"text","text":"Sheets","id":"f5fabbe58f4dac1c","x":-65,"y":1413,"width":250,"height":60},
+		{"id":"51b919135823c784","x":-65,"y":1520,"width":250,"height":60,"type":"text","text":"Blaze Burner"},
+		{"id":"fb2d1370db188bcb","x":-345,"y":1160,"width":250,"height":60,"type":"text","text":"Andesite Alloy"},
+		{"id":"9ba5f773b1a9d671","x":-617,"y":1920,"width":250,"height":60,"type":"text","text":"Boiler"},
+		{"id":"10c964c8f959e90e","x":-617,"y":1780,"width":250,"height":60,"type":"text","text":"Windmill"},
+		{"id":"b654b35553e74c1a","x":-260,"y":1890,"width":250,"height":60,"type":"text","text":"Crusher"},
+		{"id":"f5f3e15027ed2c61","x":-260,"y":1770,"width":250,"height":60,"type":"text","text":"Mechanical Crafter"},
+		{"type":"text","text":"Cooper","id":"6fc15a4556c9d7b9","x":-470,"y":1413,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9f8c2e8bbeb1b8cc","fromNode":"cedfdbd569020480","fromSide":"bottom","toNode":"5868b38f7aebc2db","toSide":"top"},
@@ -48,6 +52,13 @@
 		{"id":"71be5bc7984629c9","fromNode":"c274cb1b73b6b0c8","fromSide":"bottom","toNode":"f5fabbe58f4dac1c","toSide":"left"},
 		{"id":"e243d8d3c73bd96d","fromNode":"6fc15a4556c9d7b9","fromSide":"bottom","toNode":"f5fabbe58f4dac1c","toSide":"left"},
 		{"id":"8cf6b501933e8dac","fromNode":"fb2d1370db188bcb","fromSide":"right","toNode":"f5fabbe58f4dac1c","toSide":"left"},
-		{"id":"b01796febd11c1a3","fromNode":"fb2d1370db188bcb","fromSide":"right","toNode":"4aed7006158d0db8","toSide":"top"}
+		{"id":"b01796febd11c1a3","fromNode":"fb2d1370db188bcb","fromSide":"right","toNode":"4aed7006158d0db8","toSide":"top"},
+		{"id":"291c971afef72cbe","fromNode":"fb2d1370db188bcb","fromSide":"left","toNode":"7ac73fe7ec60d05c","toSide":"top"},
+		{"id":"30f10f8676a8e50a","fromNode":"fb2d1370db188bcb","fromSide":"left","toNode":"10c964c8f959e90e","toSide":"top"},
+		{"id":"2c6636d516318bf7","fromNode":"6fc15a4556c9d7b9","fromSide":"bottom","toNode":"9ba5f773b1a9d671","toSide":"top"},
+		{"id":"d2f3ae395888f988","fromNode":"51b919135823c784","fromSide":"bottom","toNode":"9ba5f773b1a9d671","toSide":"top"},
+		{"id":"111ece54004d61a7","fromNode":"f5f3e15027ed2c61","fromSide":"bottom","toNode":"b654b35553e74c1a","toSide":"top"},
+		{"id":"50e8e098a4fbe45c","fromNode":"c274cb1b73b6b0c8","fromSide":"bottom","toNode":"f5f3e15027ed2c61","toSide":"top"},
+		{"id":"1b14a020025ab6d4","fromNode":"f5fabbe58f4dac1c","fromSide":"bottom","toNode":"51b919135823c784","toSide":"top"}
 	]
 }
