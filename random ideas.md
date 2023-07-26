@@ -8,5 +8,5 @@ castrated (no marriage) + regenrate balls/uterus
 		 - hunger debuff
 	 - horsedick
 		 - slowness debuff
-Waystone non craftable
+Waystone craftable but hard
 towers of the wild have elytra
