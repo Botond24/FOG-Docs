@@ -8,6 +8,9 @@ castrated (no marriage) + regenrate balls/uterus
 		 - hunger debuff
 	 - horsedick
 		 - slowness debuff
+Names:
+ - Baguette
+ - 
 Waystone craftable but hard
 towers of the wild have elytra
 seed: 8085737923169983228
