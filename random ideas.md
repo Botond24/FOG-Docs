@@ -12,6 +12,7 @@ Names:
  - Baguette
  - Manhood
  - Winston Churchill
+ - Uberaffengeil
 Waystone craftable but hard
 towers of the wild have elytra
 seed: 8085737923169983228
