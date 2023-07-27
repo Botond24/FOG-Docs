@@ -11,7 +11,7 @@
 [[Ponder for KubeJs]]
 [[Sound Physics Remastered]]
 [[Towns and Towers]]
-[[Trading Post]] Probably not working
+[[Trading Post]]
 [[Universal Ores]]
 [[YUNG's Better Desert Temples]]
 [[YUNG's Better Dungeons]]
