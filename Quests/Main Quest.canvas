@@ -20,7 +20,7 @@
 		{"type":"text","text":"Crusher","id":"b654b35553e74c1a","x":-260,"y":1890,"width":250,"height":60},
 		{"type":"text","text":"Mechanical Crafter","id":"f5f3e15027ed2c61","x":-260,"y":1770,"width":250,"height":60},
 		{"type":"text","text":"Andesite Alloy","id":"fb2d1370db188bcb","x":-345,"y":1160,"width":250,"height":60},
-		{"type":"text","text":"Stuff\n","id":"58b41af992471e53","x":-10,"y":2120,"width":250,"height":60},
+		{"type":"text","text":"Tech","id":"58b41af992471e53","x":-10,"y":2120,"width":250,"height":60},
 		{"type":"text","text":"Tinker's Station","id":"4512d1621a41f2a2","x":-639,"y":780,"width":250,"height":60},
 		{"type":"text","text":"Grout","id":"8b9ef0bdf04ed08f","x":-341,"y":780,"width":250,"height":60},
 		{"type":"text","text":"Useful Armour","id":"06996f1f6f1aa7ea","x":-639,"y":880,"width":250,"height":60},
