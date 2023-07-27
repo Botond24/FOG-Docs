@@ -10,3 +10,4 @@ castrated (no marriage) + regenrate balls/uterus
 		 - slowness debuff
 Waystone craftable but hard
 towers of the wild have elytra
+seed: 8085737923169983228
