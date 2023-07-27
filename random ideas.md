@@ -11,6 +11,7 @@ castrated (no marriage) + regenrate balls/uterus
 Names:
  - Baguette
  - Manhood
+ - Winston Churchill
 Waystone craftable but hard
 towers of the wild have elytra
 seed: 8085737923169983228
