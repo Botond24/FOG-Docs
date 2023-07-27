@@ -1,4 +1,4 @@
-Waystones not Craftable and not moveable
+Waystones not easily Craftable
 Basic Icarus
 Backpack
 Village
